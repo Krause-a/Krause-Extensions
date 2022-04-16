@@ -1,0 +1,23 @@
+{
+  "name": "com.krausegames.extensions",
+  "version": "0.1.0",
+  "description": "Extensions for methods that I think should exist.",
+  "displayName": "Krause Extensions",
+  "unity": "2021.1",
+  "author": {
+    "name": "Alex Krause",
+    "email": "xander876@gmail.com"
+  },
+  "keywords": [
+    "extension",
+    "extensions",
+    "method",
+    "function",
+    "extension methods",
+    "extension functions",
+    "helper methods",
+    "helper functions",
+    "helper"
+  ],
+  "type": "tool"
+}
